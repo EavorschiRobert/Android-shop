@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShopProject</string>
+    <string name="intro_title">Step into your
+        style\nA world of shoes
+    </string>
+    <string name="intro_text">
+        Browse the latest styles from tobp brands\nGet personalized recommendations\nEnjoy, fast free shipping
+    </string>
+    <string name="intro_signin">
+                Already have an account?
+        <font color="#6033ba"> Sign In</font>
+
+    </string>
+    <string name="intro_button">Let\'s Get Started</string>
+</resources>
